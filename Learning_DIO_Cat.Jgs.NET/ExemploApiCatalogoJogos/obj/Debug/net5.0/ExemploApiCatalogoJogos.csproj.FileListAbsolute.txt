@@ -1,0 +1,2 @@
+C:\Users\almyr\OneDrive\Documentos\Projetos DIO\avanade-2\Criando um catálogo de jogos usando boas práticas de arquitetura com .NET\Learning_DIO_Cat.Jgs.NET\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.csproj.AssemblyReference.cache
+C:\Users\almyr\OneDrive\Documentos\Projetos DIO\avanade-2\Criando um catálogo de jogos usando boas práticas de arquitetura com .NET\Learning_DIO_Cat.Jgs.NET\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.GeneratedMSBuildEditorConfig.editorconfig
